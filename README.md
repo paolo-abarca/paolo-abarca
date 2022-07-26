@@ -35,6 +35,6 @@
 
 <h2>Some of my stats are:</h2>
 <div align="center">
-  <img height="200cm" src="https://github-readme-stats.vercel.app/api/top-langs?username=paolo-abarca&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="paolo-abarca">
-  <img height="200cm" src="https://github-readme-stats.vercel.app/api?username=paolo-abarca&show_icons=true&locale=en&theme=tokyonight" alt="paolo-abarca">
+  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs?username=paolo-abarca&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="paolo-abarca">
+  <img width="51%" src="https://github-readme-stats.vercel.app/api?username=paolo-abarca&show_icons=true&locale=en&theme=tokyonight" alt="paolo-abarca">
 </div>
