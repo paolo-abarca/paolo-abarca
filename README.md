@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paolo Abarca</h1>
-<h3 align="center"<>Holberton School Peru student in the process of becoming a Front-End Web Developer.</h3>
+<h3 align="center"<>Holberton School Peru student in the process of becoming a Full-Stack Web Developer.</h3>
 <div align="center">
   <img height="290px" width="800px" src="https://www.daleconcepcion.com.ar/wp-content/uploads/2020/08/shutterstock-10338536170938-620x354-01-750x4101-1.jpg">
 </div>
